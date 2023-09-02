@@ -1,9 +1,2 @@
 #!/bin/bash
-# This script changes the working directory to the previous one.
-
-# Use the 'cd' command with the '-' option to change to the previous directory
 cd -
-
-# Print the current working directory after changing
-pwd
-
